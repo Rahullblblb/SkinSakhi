@@ -2,3 +2,4 @@ tensorflow
 numpy
 gradio
 Pillow
+opencv-python-headless
